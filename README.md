@@ -9,4 +9,4 @@
 
 ### Screenshot
 
-![](./sertificate.png)
+![](./screenshot.jpg)
